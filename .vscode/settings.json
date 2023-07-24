@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "editor.fontSize": 16,
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
